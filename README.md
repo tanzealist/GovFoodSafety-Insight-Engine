@@ -42,24 +42,11 @@ This project is focused on developing a comprehensive data analytics and reporti
 - Power BI and Tableau for data visualization.
 - ER/Studio for data modeling.
 
-## Project Structure
-- `Data/`: Contains raw data files and data sources.
-- `Scripts/`: Includes SQL scripts for database creation and management.
-- `Models/`: ER diagrams and modeling files.
-- `ETL/`: Talend jobs and related documentation.
-- `Dashboards/`: Power BI and Tableau dashboard files.
-- `Documentation/`: Project documentation and notes.
 
 ## Getting Started
 - Ensure access to the data sources and necessary software tools.
 - Follow the project structure for organizing the work.
 - Refer to individual component documentation for detailed steps and guidelines.
-
-## Contributions
-- Suggestions and improvements are always welcome. Please read the `CONTRIBUTING.md` for guidelines on how to contribute.
-
-## License
-This project is licensed under the [LICENSE_NAME]. See the `LICENSE` file for more details.
 
 ## Contact
 For any queries or further information, please contact Tanuj Verma at verma.tanu@northeastern.edu.
