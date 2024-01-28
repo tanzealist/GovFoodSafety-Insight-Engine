@@ -40,7 +40,7 @@ This project is focused on developing a comprehensive data analytics and reporti
 - SQL Server and MySQL for database management.
 - Talend for ETL processes.
 - Power BI and Tableau for data visualization.
-- ER/Studio or Navicat for data modeling.
+- ER/Studio for data modeling.
 
 ## Project Structure
 - `Data/`: Contains raw data files and data sources.
