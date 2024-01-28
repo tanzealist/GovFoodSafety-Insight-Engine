@@ -11,7 +11,7 @@ This project is focused on developing a comprehensive data analytics and reporti
 
 ## Components
 1. **Data Collection**:
-   - Source: Sonoma County Open Data portal and provided files in different formats.
+   - Source: Sonoma County Open Data portal and provided files in different formats.(https://data.sonomacounty.ca.gov/Health/Food-Facility-Inspections/8r44-w5qd/about_data)
    - Data includes inspection results, violation codes, and establishment details.
 
 2. **Data Staging and Profiling**:
