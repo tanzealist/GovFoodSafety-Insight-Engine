@@ -62,5 +62,5 @@ This project is focused on developing a comprehensive data analytics and reporti
 This project is licensed under the [LICENSE_NAME]. See the `LICENSE` file for more details.
 
 ## Contact
-For any queries or further information, please contact [Your Name] at [Your Email].
+For any queries or further information, please contact Tanuj Verma at verma.tanu@northeastern.edu.
 
