@@ -48,6 +48,4 @@ This project is focused on developing a comprehensive data analytics and reporti
 - Follow the project structure for organizing the work.
 - Refer to individual component documentation for detailed steps and guidelines.
 
-## Contact
-For any queries or further information, please contact Tanuj Verma at verma.tanu@northeastern.edu.
 
